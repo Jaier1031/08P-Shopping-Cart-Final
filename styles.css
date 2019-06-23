@@ -1,0 +1,32 @@
+
+img{
+    width:100px;
+    height:100px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around;
+}
+.inputs{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align:center;
+}
+
+body{
+    background: url("");
+}
